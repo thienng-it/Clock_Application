@@ -1,5 +1,5 @@
 # CLOCK APPLICATION WITH PYTHON
-Build a clock application with Pygame (Python)
+Build a clock application with Pygame (Python).
 
 ## PREREQUISITES
 <ul>
